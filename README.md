@@ -23,6 +23,4 @@
 ### Experiment 6 
     Spam Email Detection: Build a spam email filter using text
     classification algorithms.
-### Experiment 7 
-    Predicting Stock Prices: Develop a time series prediction model
-    to forecast stock prices.
+
