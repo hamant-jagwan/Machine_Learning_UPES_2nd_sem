@@ -6,9 +6,9 @@
 
 https://scholar.google.co.in/citations?user=tsbYDewAAAAJ&hl=en
 
-## Topics:
+# Topics:
 
-1. Assignment 1
-2. Assignment 2
-3. Dataset
-4. Lab Practical
+    1. Assignment 1
+    2. Assignment 2
+    3. Dataset
+    4. Lab Practical
